@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <>
-    I am making new changes - we got the auth working. --- command line
+    I am making new changes - we got the auth working. --- command line asdasd
       <Hero />
       <Features />
       <About />
