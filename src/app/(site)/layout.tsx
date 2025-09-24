@@ -34,7 +34,6 @@ export default function RootLayout({
           <AuthProvider>
             <ToasterContext />
             <Navbar />
-            asdasd
             {children}
             <Footer />
           </AuthProvider>
